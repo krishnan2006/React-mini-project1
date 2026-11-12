@@ -91,6 +91,10 @@ Electronics and Communication Engineering Student
 
 [GitHub Profile](https://github.com/krishnan2006)
 
+## 🚀 Live Demo
+
+**Try Internship Finder here:** [Open Live Application](https://internship-finder-beta.vercel.app)
+
 ---
 
 *Built as a learning project to practise React development and frontend application design.*
